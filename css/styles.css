@@ -1,0 +1,10 @@
+body{
+    background-image: url(/home/peter/Documents/PIGDICE/image/site.jpg)
+}
+#kangal{
+    text-align: center;
+    color: cyan;
+    font-family: cursive, fantasy;
+    font-size: 34px;
+    font-style: italic;
+}
