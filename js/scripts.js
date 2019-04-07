@@ -18,17 +18,18 @@ $(document).ready(function() {
 /*the rules in the rule button*/
 $(document).ready(function(){
 	$(".coldplay").click(function(event){
-		$(".worse").slideDown(100000);
+		$(".worse").slideDown(10000);
 	});
 });
 
 
 
 /*refresh browser*/
+$(document).ready(function(){
 $(".new").click(function() {
 setTimeout(location.reload(true), t);
 });
-
+});
 
 
 
