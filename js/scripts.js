@@ -19,7 +19,7 @@ $(document).ready(function() {
 $(document).ready(function(){
 	$(".coldplay").click(function(event){
 		$(".worse").slideDown(10000);
-		$(".worse").slideUp(10000);
+		$(".worse").fadeOut(10000);
 	});
 });
 
