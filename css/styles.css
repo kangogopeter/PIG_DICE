@@ -59,6 +59,9 @@ i{
     overflow: hidden;
 }
 
+.gamename{
+  text-align: center;
+}
 
 button {
     position: absolute;
