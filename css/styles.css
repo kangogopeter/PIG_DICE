@@ -58,7 +58,16 @@ i{
     box-shadow: 12px 10px 30px black;
     overflow: hidden;
 }
-
+.playee{
+  font-style: italic;
+  font-family: monospace;
+  font-size: 30px;
+  }
+   .playee2{
+     font-style: italic;
+     font-family: cursive;
+     font-size: 30px;
+   }
 button {
     position: absolute;
     width: 200px;
