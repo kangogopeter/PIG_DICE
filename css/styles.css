@@ -44,6 +44,9 @@ body{
     position: relative;
     color:gray;
 }
+i{
+  color: indigo;
+}
 
 .wrapper {
     width: 1000px;
@@ -51,7 +54,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: ghostwhite;
+    background-color: wheat;
     box-shadow: 12px 10px 30px black;
     overflow: hidden;
 }
