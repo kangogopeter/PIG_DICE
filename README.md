@@ -2,8 +2,8 @@ Insights
 Pig-Dice
   
 Pig-Dice
-Fourth Independent Project for Moringa prep class , April 8th, 2018
-By Richard Waweru
+Fourth Independent Project for Moringa prep class , April 6th, 2019
+By kangogopeter
 Description
 The Pig-Dice game is a fun game based on two players rolling a dice.
 
@@ -13,9 +13,22 @@ A player rolls the die until either:
 2. The player chooses to hold i.e. stop rolling
 When a one is rolled, accumulated points are discarded and the other player takes over the dice.
 
-When Hold is pressed, the accumulated points are added to the player's final Score.
+The accumulated points are added to the player's final Score.
 
 The other player then takes the dice over.
+
+         ---------------------------------------------------------------------------------------------------------|
+         | BEHAVIOUR                                      |  INPUT                           |  OUTPUT            |
+         |---------------------------------------------------------------------------------------------------------             
+         | Player 1 rolls the dice three times and        | created a function for player 1  |    Roll the dice.  |
+         |  he/she will shift to player two .             | and also for player 2 .          |                    |
+         |                                                |                                  |                    |
+         |assigned a new game button in which it refreshes| event.preventDefault();          |refreshing the game.|
+         |by default.                                     |                                  |                    |
+         |                                                |                                  |                    |
+         | also assigned a rule button                    |paragragh tag which slideDown and |  display the rules.|
+         |                                                    fadeOut                        |                    |
+         |---------------------------------------------------------------------------------------------------------               
 
 Specifications
 
