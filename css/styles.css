@@ -1,13 +1,13 @@
 html{
 background-color: cyan}
 body{
-    background-color: cyan;
+    background-image: url(/home/peter/Documents/PIGDICE/image/dicee.jpg);
 }
 #kangal{
     text-align: center;
     color: cyan;
     font-family: cursive, fantasy;
-    font-size: 34px;
+    font-size: 60px;
     font-style: italic;
 }
 #pitbull{
