@@ -1,4 +1,4 @@
-Insights
+Insights:~
 Pig-Dice
   
 Pig-Dice
