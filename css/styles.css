@@ -3,6 +3,7 @@ background-color: cyan}
 body{
     background-image: url(/home/peter/Documents/PIGDICE/image/dicee.jpg);
 }
+
 #kangal{
     text-align: center;
     color: cyan;
@@ -16,6 +17,7 @@ body{
     color: blueviolet;
     background-color:cyan;
 }
+
 u{
     color: indianred;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
